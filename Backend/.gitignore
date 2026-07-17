@@ -1,0 +1,38 @@
+# IDE files
+**/.idea/
+**/.vscode/
+**/*.iml
+**/*.ipr
+**/*.iws
+
+# Build output
+**/target/
+**/build/
+**/out/
+**/bin/
+
+# Maven/Gradle wrapper folders
+**/.mvn/
+**/.gradle/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Environment and local config
+.env
+.env.*
+application-local.properties
+application-local.yaml
+application-local.yml
+
+# Compiled classes
+**/*.class
+
+# Test coverage artifacts
+coverage/
